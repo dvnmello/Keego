@@ -70,11 +70,11 @@ Para realizar Login do usuário cadastrado
 
 O relatório pode ser acompanhado pelas pastas keego\target\Destination\index.html e keego\src\test\resources\htmlReporter.html 
 
-[index.html](keego\target\Destination\index.html)
+[index.html](https://github.com/dvnmello/Keego/tree/main/target/Destination/index.html)
 
-[htmlReporter.html](keego\src\test\resources\htmlReporter.html )
+[htmlReporter.html](https://github.com/dvnmello/Keego/tree/main/src/test/resources/htmlReporter.html )
 
-[Screenshots](keego\src\test\resources)
+[Screenshots](https://github.com/dvnmello/Keego/tree/main/src/test/resources)
 
 As Screenshots estão na pasta keego\src\test\resources
 
